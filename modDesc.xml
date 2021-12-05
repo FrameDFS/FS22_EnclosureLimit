@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+    <author>DFrame</author>
+    <version>1.0.0.0</version>
+    <title>
+        <de>Gehäusebegrenzungen deaktivieren</de>
+        <en>Disable enclosure limits</en>
+    </title>
+    <description>
+        <de><![CDATA[Gehäusebegrenzungen deaktivieren]]></de>
+        <en><![CDATA[Disable enclosure limits]]></en>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="EnclosureLimit.lua" />
+    </extraSourceFiles>
+</modDesc>
